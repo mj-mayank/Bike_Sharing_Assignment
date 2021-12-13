@@ -10,27 +10,36 @@ Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
 We have to build a model so that management can understand how exactly the demands vary with different features.
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The assignemnt is divided into below sections:
+- 1. Reading and Understanding data
+- 2. Visualising the data and performing EDA
+- 3. Data preparation(adding dummy variables, diving into train and test data)
+- 4. Data modelling using RFE
+- 5. Using stats model for analysis for finalizing the model
+- 6. Residual Analysis after the model is finalized
+- 7. Model evaluation
+- 8. Making predictions using final model(model 11 in this case)
+- 9. Final Outcome
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 1. Company can expand business during the months of 5,6,7,8 & 9
+- 2. Fall season is the most favourable season so company can introduce packages so that more no of bookings can be attracted.
+- 3. Company can service the bikes during other months so that business is not impacted.
+- 4. Below are the significant factors in determining the demand of bikes during the upcoming year:
+-   a. yr
+-   b. workingday
+-   c. temp
+-   d. windspeed
+-   e. season winter and summer
+-   f. mnth_9
+-   g. weekday_6
+-   h. weathersit(cloudy, snow, rain)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
