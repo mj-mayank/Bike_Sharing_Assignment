@@ -1,7 +1,5 @@
-# Project Name
+# Bike Sharing Assignment
 > 
-
-Bike Sharing Assignment
 
 Problem Statement
 
