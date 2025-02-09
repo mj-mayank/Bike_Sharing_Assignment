@@ -25,38 +25,24 @@ The assignemnt is divided into below sections:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- 1. Company can expand business during the months of 5,6,7,8 & 9
-- 2. Fall season is the most favourable season so company can introduce packages so that more no of bookings can be attracted.
-- 3. Company can service the bikes during other months so that business is not impacted.
-- 4. Below are the significant factors in determining the demand of bikes during the upcoming year:
--   a. yr
--   b. workingday
--   c. temp
--   d. windspeed
--   e. season winter and summer
--   f. mnth_9
--   g. weekday_6
--   h. weathersit(cloudy, snow, rain)
+- Company can expand business during the months of 5,6,7,8 & 9
+- Fall season is the most favourable season so company can introduce packages so that more no of bookings can be attracted.
+- Company can service the bikes during other months so that business is not impacted.
+- Below are the significant factors in determining the demand of bikes during the upcoming year:
+  - yr
+  - workingday
+  - temp
+  - windspeed
+  - season winter and summer
+  - mnth_9
+  - weekday_6
+  - weathersit(cloudy, snow, rain)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
