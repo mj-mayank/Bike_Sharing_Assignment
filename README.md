@@ -10,7 +10,7 @@ A US Bike sharing system wants to understand the demand for shared bikes among t
 The given dataset has around 16 variables and 730 rows. This shows count of registered users(demand) in different weather, on particular day of the week, temperature impacting demand and other factors. This dataset is from year 2018 and 2019.
 <!-- You can include any other section that is pertinent to your problem -->
 
-## Model Busilding approach:
+## Model Building approach:
 The assignemnt is divided into below sections:
 - Reading and Understanding data
 - Visualising the data and performing EDA
