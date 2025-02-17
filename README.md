@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> 
+
 ## Problem Statement:
 A US Bike sharing system wants to understand the demand for shared bikes among the people. The company wants to know:
 - Which variables are significant in predicting the demand for shared bikes.
